@@ -5,7 +5,7 @@
   "name": "loginlogic",
   "version": "1.0.0",
   "description": "a simple program that has login logic",
-  "main": "index.js",
+  "main": "server.js",
   "devDependencies": {},
   "scripts": {
     "test": "run"
