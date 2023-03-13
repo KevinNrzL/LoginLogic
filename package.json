@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "loginlogic",
+  "version": "1.0.0",
+  "description": "a simple program that has login logic",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinNrzL/LoginLogic.git"
+  },
+  "keywords": [
+    "LoginLogic"
+  ],
+  "author": "KevinNrz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinNrzL/LoginLogic/issues"
+  },
+  "homepage": "https://github.com/KevinNrzL/LoginLogic#readme"
+}
