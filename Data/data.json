@@ -1,0 +1,20 @@
+ [
+  {
+  "userId": "admin",
+  "password": "admin",
+  "nama": "John Doe",
+  "alamat": {
+    "jalan": "Jl. Merdeka",
+    "kota": "Jakarta"
+    }
+  },
+  {
+  "userId": "login",
+  "password": "login",
+  "nama": "erguad Mini",
+  "alamat": {
+    "jalan": "Jl. Meruya",
+    "kota": "Jakarta"
+    }
+  }
+]
